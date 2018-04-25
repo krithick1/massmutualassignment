@@ -1,0 +1,25 @@
+<!-- <nav class="navbar navbar-default"> -->
+  <!-- <div class="container-fluid"> -->
+    <!-- <div class="navbar-header"> -->
+      <!-- <a class="navbar-brand" href="#/">MassMutual</a> -->
+    <!-- </div> -->
+    <!-- <ul class="nav navbar-nav"> -->
+      <!-- <li><a href="#/findadvisor">FIND AN ADVISOR</a></li> -->
+      <!-- <li><a href="#claims">CLAIMS</a></li> -->
+      <!-- <li><a href="#payment">PAYMENTS</a></li> -->
+      <!-- <li><a href="#signup">SIGN UP</a></li> -->
+	  <!-- <li><button type="submit" id="login">Login</button></li> -->
+    <!-- </ul> -->
+  <!-- </div> -->
+<!-- </nav> -->
+
+<nav class=" primary_nav navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header mr-1 ml-1">
+      <a class="navbar-brand" href="{{header.0.link}}">{{header.0.text}}</a>
+    </div>
+    <ul class="nav navbar-nav " ng-repeat="header in header | limitTo: (1 - header.length)">
+      <li><a href="{{header.link}}">{{header.text}}</a></li>
+    </ul>
+  </div>
+</nav>

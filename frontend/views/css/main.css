@@ -1,0 +1,143 @@
+
+
+.bgimg{
+	width: 100%;
+	height: 350px;
+	
+}
+
+.media
+{
+	margin-left:10%
+}
+
+.media-content{
+	width:50%;
+}
+
+@media only screen and(max-width: 800px){
+	.bgimg{
+	width: 100%;
+	height: 300px;
+	
+}
+	
+}
+@media only screen and(max-width: 800px){
+	.bgimg{
+	width: 100%;
+	height: 200px;
+	
+}
+	
+}
+.img_div {
+    position: relative;
+}
+
+h1{
+	font-size:18px;
+}
+
+.post-content {
+    position: absolute;
+    top: 20%;
+    left: 16%;
+}
+.grid-class{
+
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.col_grid{
+	background-color: #e6e2e2;
+	border: 2px solid #e6e2e2;
+	margin-right: 5%;
+	margin-left: 3%;
+	margin-top: 5%;
+}
+
+.navbar-default .navbar-brand
+{
+	color:white;
+}
+
+
+
+.bgimg{
+	width: 100%;
+	height: 350px;
+	
+}
+@media only screen and(max-width: 800px){
+	.bgimg{
+	width: 100%;
+	height: 300px;
+	
+}
+	
+}
+@media only screen and(max-width: 800px){
+	.bgimg{
+	width: 100%;
+	height: 200px;
+	
+}
+	
+}
+.img_div {
+    position: relative;
+}
+
+
+
+.post-content {
+    position: absolute;
+    top: 20%;
+    left: 16%;
+	width: 30%;
+}
+.grid-class{
+
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.col_grid{
+	background-color: #e6e2e2;
+	border: 2px solid #e6e2e2;
+	margin-right: 5%;
+	margin-left: 3%;
+	margin-top: 5%;
+}
+.footer_logo{
+	
+	width: 60%;
+}
+
+.copywrite{
+	font-size: 75%;
+	color: gray;
+}
+.blog_img{
+	width: 100%;
+	height: 350px;
+	margin-top: 3%;
+	margin-left:5%;
+}
+.main-content-blog{
+	
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.appln_nav{
+	background-color:#002f6c;
+	color: #fff;
+}
+
+.blog_heading
+{
+	font-size:30px;
+	margin-left: 10%;
+}

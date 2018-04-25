@@ -1,0 +1,29 @@
+{
+  "Users":[
+  { 
+    "name":"Keith McDonagh",
+	"shortdescription":"Keith McDonagh is Head of the Institutional Solutions businesses for MassMutual.",
+	"longdescription": "",
+	"imageurl": "/images/keith_mcDonagh.webp"
+  },
+  {
+    "name":"Allen Wastler",
+	"shortdescription":"Allen Wastler is a former financial journalist with over 30-years of experience, including time at CNBC, CNN, and Knight-Ridder Newspapers.",
+	"longdescription": "",
+	"imageurl": "/images/allen_wastler.webp"
+  },
+  {
+    "name":"Amy Fontinelle",
+	"shortdescription":"Amy Fontinelle is a personal finance writer focusing on budgeting, credit cards, mortgages, real estate, investing, and other topics.",
+	"longdescription": "",
+	"imageurl": "/images/Amy_Fontinelle.webp"
+  },
+  {
+   "name":"Shelly Gigante",
+	"shortdescription":"Shelly Gigante specializes in personal finance issues. Her work has appeared in a variety of publications and news websites.",
+	"longdescription": "",
+	"imageurl": "/images/shelly_gigante.webp"
+  }
+  ]
+  
+}

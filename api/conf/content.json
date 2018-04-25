@@ -1,0 +1,316 @@
+{
+  "contentjson":[
+  {
+		"headline": "New risks present new opportunities",
+		"postedby": "Keith McDonagh",
+		"posteddate": "04/06/2018",
+		"bannerImage": "/images/bg2.jpg",
+		"linkurl":"/blog.html?contentid=1",
+		"body": [{
+			"p": "The year has started with a more volatile financial market landscape, presenting both new risks and new opportunities for businesses and institutions."
+		},
+		{
+			"p": "The stock market continued its bull run earlier in the year and has since been followed by periods of increased volatility. Meanwhile, interest rates continue to move upwards as the Federal Reserve manages signs of inflation."
+		},
+		{
+			"p": "On the government front, new federal tax legislation cut corporate income-tax rates, which may benefit business profits. Additionally, the prospect of tariffs has sparked considerable debate and may have caused some market uncertainty."
+		},
+		{
+			"p": "This changing economic and policy climate creates an opportune time to reflect on the possible impacts for corporate and institutional balance sheets and income statements. Financial managers may want to consider evaluating the risks their enterprises face, and consider new strategies and opportunities to help manage those risks."
+		},
+		{
+			"p": "Management of defined benefit (DB) plans is a case in point. Rising stock prices and interest rates have helped many DB plans improve their funding ratios. Additionally, the federal tax reform bill is expected to boost DB funding ratios even higher. U.S. companies have until mid-September to consider accelerating plan funding and apply the higher 35 percent corporate tax rate when deducting contributions to their DB plans from their taxes"
+		},
+		{
+			"p": "Improved funding ratios can help companies better manage long-term funding liabilities in their DB plans. Also, improved ratios may make it more affordable for companies that want to consider pension risk transfers (PRT) or other risk mitigation strategy."
+		},
+		{
+			"p": "U.S. single premium PRT product sales hit $23.9 billion in 2017, up from $13.7 billion in 2016, a 68 percent increase, according to a survey of sales by LIMRA International1. PRT sales in 2017 marked the second-largest annual total on record, ranking only behind the $36 billion in deals reported in 2012."
+		},
+		{
+			"p": "Within employee benefit offerings, the rising costs for healthcare and other benefits is another area where companies can evaluate options to help manage this financial risk. Institutional insurance such as corporate owned life insurance (COLI) and bank owned life insurance (BOLI) are specifically designed to help companies fund these important benefits."
+		},
+		{
+			"p": "Long-term insurance policy proceeds such as death benefits and cash-value loans can be used to fund a variety of employee benefit programs that a company may not otherwise be able to offer, such as health and welfare benefits, retirement programs and deferred compensation programs. The ability to affordably offer these benefits may enable companies to attract and retain the talented employees critical to their business success."
+		},
+		{
+			"p": "Rising interest rates and stock market volatility also provide opportunities for companies that sponsor defined contribution plans to evaluate their stable value and mutual fund line-ups."
+		},
+		{
+			"p": "The source and timing of both risks and opportunities can be hard to predict. Often, it’s the emergence of challenges – market volatility, rising interest rates, rising healthcare costs and others – that help clarify the needs and lead to possible solutions. This year is shaping up to be no different."
+		}
+
+	],
+		"shortdescription": "The volatile start to the year presents new risks and new opportunities for businesses and institutions.",
+		"tags": 
+		{
+		  "1":{
+		  "TagName":"Institutional"
+		  },
+		  "2":{
+		  "TagName":"Thought Leadership"
+		  }
+		},
+		"references": {
+			"1": {
+				"text": "LIMRA International, Secure Retirement Institute, Group Annuity Risk Transfer Survey, Fourth Quarter 2017,",
+				"link": "https://www.limra.com/Research/Abstracts/PDF/2018/180227-01-qr.aspx"
+			}
+		}
+	},
+	
+	{
+		"headline": "Expertise is key to managing pension risks and obligations",
+		"postedby": "Keith McDonagh",
+		"posteddate": "02/28/2018",
+		"bannerImage": "/images/bg2.jpg",
+		"linkurl":"/blog.html?contentid=2",
+		"body": [{
+			"p": "Few markets are better aligned to MassMutual’s financial acumen and risk management capabilities than the defined benefit pension marketplace."
+		},
+		{
+			"p": "The Investment Company Institute reports $8.9 trillion in private and public defined benefit pension assets in the United States as of September 30, 2017.1 It’s an indication of the scope of the defined benefit market and the potential for MassMutual to offer its expertise and experience as a risk manager."
+		},
+		{
+			"p": "Since 1957, MassMutual has been helping companies meet their pension obligations to both current and former employees, as well as manage the associated financial risks. We provide actuarial and risk consulting services, investment management, recordkeeping, and pension buyout and risk transfer capabilities."
+		},
+		{
+			"p": "We have invested in new resources and building out our capabilities to better serve the defined benefit marketplace. Recently, MassMutual introduced a new analytics tool to help employers gauge and manage the relative health of their pension plans. Our PensionSmart Analysis tool is available to pension plan sponsors through financial advisors and consultants who serve the pension recordkeeping, investments and actuarial marketplaces."
+		},
+		{
+			"p": "The tool provides insights into the health of an employer’s pension, creating a persona that details the plan’s current status, funding level or health, service structure, and comparison to pension plans sponsored by other employers in the same industry. With the results of the tool’s analysis in hand, MassMutual’s actuarial and investment consultants assess the pension plan’s health and make recommendations to the sponsor about appropriate options. The assessment examines funding, investment and de-risking strategies to help sponsors make the best long-term decisions about managing their pension plans."
+		},
+		{
+			"p": "Sponsors of defined benefit plans have different goals, from continuing their commitments to terminating a plan, and from better managing liabilities to shifting them to a third party. As part of the analysis of pensions, the PensionSmart Analysis tool examines different investment glide path options to help sponsors achieve specific goals related to funding and liability matching."
+		},
+		{
+			"p": "MassMutual also evaluates and recommends de-risking strategies, as more sponsors look to reduce liabilities from pensions. We’re seeing growing interest in pension transfers from many plan sponsors."
+		},
+		{
+			"p": "The market for pension risk transfers has been gaining incredible momentum as more employers evaluate the possibility of shifting their pension risks to financially stable insurers."
+		},
+		{
+			"p": "As employers find managing pensions increasingly difficult, interest in insightful, experienced support from a financially secure life insurer with decades of pension expertise continues to grow. MassMutual has the experience, experts and resources to help pension sponsors manage their complex financial issues and, ultimately, meet their obligations."
+		}
+	],
+		"shortdescription": "Employers find managing pensions increasingly difficult, but there are tools and partners that can help.",
+		"tags": 
+		{
+		  "1":{
+		  "TagName":"MassMutual"
+		  },
+		  "2":{
+		  "TagName":"Institutional"
+		  },
+		  "3":{
+		  "TagName":"Business"
+		  }	
+		},
+		"references": {
+			"1": {
+				"text": "Investment Company Institute, 'Research and Statistics, Q3 2017,'",
+				"link": ""
+			}
+		}
+	},
+	
+	{
+		"headline": "Happy Birthday, Caleb Rice",
+		"postedby": "Allen Wastler",
+		"posteddate": "04/02/2018",
+		"bannerImage": "/images/caleb.webp",
+		"linkurl":"/blog.html?contentid=3",
+		"body": [{
+			"p": "This Wednesday, April 4, is Caleb Rice’s birthday.Who is Caleb Rice? Well, for us at MassMutual he’s a pretty important guy…the first president of the company when it started about 167 years ago.But it’s his previous job that raises eyebrows. Who would think that one of the pioneers of insurance spent 20 years as the county sheriff?"
+		},
+		{
+			"p": "Who is Caleb Rice? Well, for us at MassMutual he’s a pretty important guy…the first president of the company when it started about 167 years ago."
+		},
+		{
+			"p": "But it’s his previous job that raises eyebrows. Who would think that one of the pioneers of insurance spent 20 years as the county sheriff?"
+		},
+		{
+			"p": "In that office his duty had been to arrange not life insurance, but an abrupt exit from this world for any prisoners whom the courts ordered to be hanged, notes the company history.1 (If that gives you the willies, relax. His county, Hampden, apparently had no executions during his tenure, according Massachusetts history and criminology enthusiasts)."
+		},
+		{
+			"p": "He left that sheriff job in 1851 and became the first president of Massachusetts Mutual Life Insurance Company. Of course, that position may have had to call on his keeping-the-peace job skills as well."
+		},
+		{
+			"p": "The company was actually the brain child of his younger cousin, George Rice, an agent for a Connecticut insurance company, the company history points out. George saw a lot of business coming out of the Springfield, Mass., area. He believed a local insurance company there could do quite well."
+		},
+		{
+			"p": "George Rice originally planned to start the company as a mutual enterprise, meaning the company would be owned by policyowners and, consequently, managed with the best interests of customers at its heart. Other insurance companies, like the one he worked for, had such structures."
+		},
+		{
+			"p": "But Massachusetts law derailed that plan, requiring insurance companies to be chartered via stock ownership first, meaning investors had to put up a pool of money in exchange for shares in the company. That pool of money would act as a reserve for the company’s policies. Once a company was in business long enough to establish a large enough surplus out of its own funds, it could retire the stock, pay back the original investors, and mutualize."
+		},
+		{
+			"p": "Undeterred, George and Caleb lobbied the leading businessmen of Springfield, Mass. Eventually they had a group of 31 investors, each making individual contributions adding up to a total of $100,000, which was enough to secure the charter. George, however, couldn’t serve on the board, since he still worked for a Connecticut insurance company. So Caleb became president (he was paid $50 for his first year of service)."
+		},
+		{
+			"p": "Trouble came early. As the investor group came together for one of its first board meetings in 1851, one of the lead investors withdrew from the enterprise, arguing his colleagues hadn’t put up solid enough collateral to cover their investment pledges. Nevertheless the company kept on."
+		},
+		{
+			"p": "George unfortunately never saw the company grow out of its infancy. He died at the age of 33 of tuberculosis in 1856.2 Caleb continued on as president until his death in 1873 (and served as the first mayor of Springfield once it incorporated in 1852)."
+		},
+		{
+			"p": "By then MassMutual had made the shift to a mutual company, built its first office building, and passed $1 million in assets, a pretty hefty sum in those days. And look at where we are now."
+		},
+		{
+			"p": "So Happy Birthday, Sheriff Caleb."
+
+		}
+	],
+		"shortdescription": "For us at MassMutual he’s a pretty important guy: a sheriff and our founder.",
+		"tags": 
+		{
+		  "1":{
+		  "TagName":"MassMutual"
+		  },
+		  "2":{
+		  "TagName":"Live Mutual"
+		  }
+		},
+		"references": {
+			"1": {
+				"text": "Richard Hooker, 'A Century of Service: The Massachusetts Mutual Story,' Massachusetts Mutual Life Insurance Co., 1951.",
+				"link": ""
+			},
+			"2": {
+				"text": "Rusty Clark, West Springfield, Massachusetts: Stories Carved in Stone, Dog Pond Press, 2004.",
+				"link": ""
+			}
+		}
+	},
+	
+	{
+		"headline": "Be on guard: 3 common senior scams",
+		"postedby": "Amy Fontinelle",
+		"posteddate": "03/28/2018",
+		"bannerImage": "/images/amy_blog.webp",
+		"linkurl":"/blog.html?contentid=4",
+		"body": [{
+			"p": "Seniors are an attractive target for fraudsters. Indeed billions of dollars per year are scammed away from senior citizens in a variety of ways, ranging from high pressure sales tactics to caregiver abuse to outright theft and fraud."
+		},
+		{
+			"p": "Many seniors have risk factors that make them especially vulnerable to scams. They have ample retirement savings and home equity; in some cases they may be lonely, socially isolated, and depressed; they may be in various stages of Alzheimer’s disease or dementia. They were raised to be polite and find it difficult to ignore or hang up on people who ask for help. If they do notice that they have been taken advantage of, they are often too embarrassed to tell anyone or ask for help."
+		},
+		{
+			"p": "Knowing about three popular ways senior citizens are taken advantage of and parted with their money — charity exploitation, online housing scams, and home repair fraud — is a first step in curbing elder financial abuse."
+		},
+		{
+			"p": "<b> Charity Exploitation <b>"
+		},
+		{
+			"p": "Giving to charity is a noble and spiritually rewarding activity for many people. And there are many respectable and established charities that solicit donations in responsible manner."
+		},
+		{
+			"p": "But many charities, some legitimate and some outright fraudulent, repeatedly and aggressively ask for donations. And the more seniors give, even if they only give small amounts, the more these kinds of charities come back to them asking for more."
+		},
+		{
+			"p": "Kay H. Bransford is a personal finance author and provides financial consultation services to seniors and older adults. She said in an interview that she often finds that her clients are giving away thousands in small increments. One of her clients gave away nearly $30,000 over the course of the year by making $20 and $30 donations over and over."
+		},
+		{
+			"p": "She also found that her own parents were writing weekly checks to several charities that Bransford said she had never heard of, to the tune of about $3,000 per year. It turned out that when her parents started writing the checks, they had undiagnosed dementia. Doctors did not diagnose it until their symptoms were more advanced."
+		},
+		{
+			"p": "Sometimes charities use misleading language to make seniors feel like they have already pledged to donate the money, so they feel obligated to keep giving. Seniors may not realize how much their repeated contributions are adding up. Even more worrisome are requests that seniors pledge to bequeath thousands of dollars of their estate to a charity after they pass away."
+		},
+		{
+			"p": "While these aggressive charitable activities do not necessarily rise to the level of fraud, they can be damaging to an individual’s finances. But without the active presence of a relative, friend, or trusted financial advisor, such activity can be hard to detect."
+		},
+		{
+			"p": "Bransford said that if adult children believe their parents are making lots of charitable donations, they should ask questions: Do they make these donations habitually? What charities are important to them? How much do they want to give each year? Then work on establishing a plan or schedule, perhaps with the advice of a financial advisor, to meet those goals without going overboard. (Need a financial advisor? Contact us)"
+		},
+		{
+			"p": "In some situations, particularly in situations where age-related mental issues may be a factor, such a strategy may be difficult to implement."
+		},
+		{
+			"p": "When cognitive issues are involved, prying kids usually are unwelcome, Bransford said."
+		}
+	],
+		"shortdescription": "Scammers defraud seniors of billions of dollars per year, but you can take preventative steps.",
+		"tags": 
+		{
+		  "1":{
+		  "TagName":"Eldercare"
+		  }
+		},
+		"references": {
+			"1": {
+				"text": "",
+				"link": ""
+			}
+		}
+	},
+	
+	{
+		"headline": "3 money taboos ̶ and why you should break them",
+		"postedby": "Shelly Gigante",
+		"posteddate": "03/05/2018",
+		"bannerImage": "/images/baseball.webp",
+		"linkurl":"/blog.html?contentid=5",
+		"body": [{
+			"p": "Despite growing efforts to bring personal finance education into the classroom, the topic of money remains taboo in many homes: between spouses, from parents to children, and among older generations who still consider conversations about personal finances to be forbidden"
+		},
+		{
+			"p": "Yet many in the financial community suggest that those who talk about their savings and spending have healthier relationships with their loved ones, and may even be more likely to achieve their financial goals."
+		},
+		{
+			"p": "Money is not only a difficult topic, but the most difficult topic in many homes, and particularly with couples, said Deborah Price in an interview, a money therapist and founder of the Money Coaching Institute in Novato, California. It’s important to talk about money because it creates a feeling of safety in your relationships, whereas not talking about money often leads to fear, secrecy, and a loss of intimacy."
+		},
+		{
+			"p": "Price acknowledged that breaking the silence can be difficult. Why? Money is charged with emotional subtext: the fear of being judged, feelings of shame, or an adherence to old-school etiquette that held it was impolite to discuss income or assets."
+		},
+		{
+			"p": "To change the communication standard in your own home, it helps to explore the money taboos that persist in modern America and the many benefits that may be derived from bringing the family finances to the fore."
+		},
+		{
+			"p": "<b>Taboo #1: Silence between spouses</b>"
+		},
+		{
+			"p": "Married couples who don’t share their vision for the future, fully disclose their assets and liabilities, and set financial goals together create walls in their relationship."
+		},
+		{
+			"p": "Even worse, those who keep secrets from their partner about money (or anything else) erode trust in the marriage. But many do."
+		},
+		{
+			"p": "A 2016 Harris Poll survey for the National Foundation for Credit Counseling found that 39 percent of adults who have combined their finances in a current or past relationship committed “financial infidelity” against their partner – meaning they have either hidden a purchase, bank account, statement, bill, or cash from their partner. Sixteen percent of them said they committed more serious deceptions, like lying about the amount of debt they carry or their income.1"
+		},
+		{
+			"p": "When you agree to combine finances in a relationship, youre also agreeing to a certain degree of cooperation and transparency in your money management, said Ted Beck, president and CEO of the National Endowment for Financial Education, in the press release. It’s easier to achieve joint financial goals when your money is pooled and working together. Yet, we’re seeing the implicit promise of collaboration destroyed by financial game-playing."
+		}
+
+	],
+		"shortdescription": "Open, honest dialogue with spouses, kids, and aging parents can potentially help you meet your financial goals.",
+		"tags": 
+		{
+		  "1":{
+		  "TagName":"MassMutual"
+		  },
+		  "2":{
+		  "TagName":"Institutional"
+		  },
+		  "3":{
+		  "TagName":"Business"
+		  }	
+		},
+		"references": {
+			"1": {
+				"text": "National Endowment for Financial Education, 'Two in Five Americans Confess to Financial Infidelity Against Their Partner,' Feb. 11, 2016",
+				"link": ""
+			},
+			"2": {
+				"text": "North Carolina State University, University of Texas, 'Money Matters: Children’s Perceptions of Parent-Child Financial Disclosure,' April 25, 2014.",
+				"link": ""
+			},
+			"3": {
+				"text": "TIAA, 'Family Money Matters Survey,' March 1, 2017",
+				"link": ""
+			}
+		}
+	}
+    
+  ]
+}
+
